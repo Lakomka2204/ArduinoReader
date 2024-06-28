@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArduinoReaderLib", "ArduinoReaderLib\ArduinoReaderLib.csproj", "{0CBCBF33-C8BA-4A65-9B40-E269955F8247}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArduinoReaderDesktop", "ArduinoReaderDesktop\ArduinoReaderDesktop.csproj", "{7F0B2B80-5A83-49D3-9D12-C652287A1C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoReaderCli", "ArduinoReaderCli\ArduinoReaderCli.csproj", "{85D5B6EC-A9C8-4263-B9C0-2A1246F4FF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBCBF33-C8BA-4A65-9B40-E269955F8247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBCBF33-C8BA-4A65-9B40-E269955F8247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBCBF33-C8BA-4A65-9B40-E269955F8247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBCBF33-C8BA-4A65-9B40-E269955F8247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0B2B80-5A83-49D3-9D12-C652287A1C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0B2B80-5A83-49D3-9D12-C652287A1C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0B2B80-5A83-49D3-9D12-C652287A1C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0B2B80-5A83-49D3-9D12-C652287A1C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D5B6EC-A9C8-4263-B9C0-2A1246F4FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D5B6EC-A9C8-4263-B9C0-2A1246F4FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D5B6EC-A9C8-4263-B9C0-2A1246F4FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D5B6EC-A9C8-4263-B9C0-2A1246F4FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2535DB14-828D-4D39-ABC9-F5F71B878A84}
+	EndGlobalSection
+EndGlobal
